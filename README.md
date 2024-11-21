@@ -53,14 +53,19 @@ Tugas
   - Hubungan:
     - Diakses: Tugas dapat diakses oleh PJ dan anggota.
     - Dimiliki: Tugas dimiliki oleh anggota yang ditugaskan.
-## Class Hierarchy
 
 ## Project Structure
 ![image](https://github.com/user-attachments/assets/c4a757c5-4dcd-42ee-a68c-c1ff77703d00)
 
 ## Source Code dan Penjelasan
+#### Package GUI
+Folder ini berisi file Java yang berkaitan dengan antarmuka pengguna (GUI).
 
-Library 
+
+#### Package Image
+#### Package Model
+
+#### Library 
 1. JCalendar
 2. JDBC
 
